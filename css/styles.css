@@ -5,7 +5,8 @@ body{
 }
 
 /*hedder*/
-.header-logo{
+
+ .header-logo{
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -14,15 +15,25 @@ body{
         text-transform: uppercase;
         color: #2e2f42;
 }
-.header-logo-web{ 
-       color: #4d5ae5;
+ .header-logo:hover, 
+ .header-logo:focus{
+    color: #4D5AE5;
 }
+.header-logo-web{ 
+       color: #4D5AE5;
+}
+
+
 .nav-link{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+}
+.nav-link:hover, 
+.nav-link:focus{
+    color: #4D5AE5;
 }
 .nav-inform{
         font-weight: 400;
@@ -31,4 +42,7 @@ body{
         letter-spacing: 0.02em;
         color: #434455;
 }
-
+.nav-inform:hover,
+.nav-inform:focus {
+    color: #4D5AE5;
+}
