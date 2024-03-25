@@ -59,6 +59,9 @@ a{text-decoration: none;}
 
 
 /*maoin-saction-1*/
+.section-top{
+    background-color: #2e2f42;
+}
 
 .main-solutions{
     font-weight: 700;
@@ -69,11 +72,13 @@ a{text-decoration: none;}
     color: #fff
 }
 .hero-order{
+        font-family:"Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        background-color: #4D5AE5;
 }
 .hero-order:hover,
 .hero-order:focus {
