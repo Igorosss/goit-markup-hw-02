@@ -156,7 +156,7 @@ a{text-decoration: none;}
 .footer{
     background-color: #2e2f42;
 }
-.fotter-logo {
+.footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -167,12 +167,12 @@ a{text-decoration: none;}
     line-height: 1.17;
 }
 
-.footter-logo:hover,
-.footter-logo:focus {
+.footer-logo:hover,
+.footer-logo:focus {
     color: #404bbf;
 }
 
-.footter-logo-studio {
+.footer-logo-studio {
     color: #f4f4fd;
 }
 
