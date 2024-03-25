@@ -15,16 +15,20 @@ a{text-decoration: none;}
         line-height: 1,16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
+        line-height: 1.17;
 }
  .header-logo:hover, 
  .header-logo:focus{
-    color: #4D5AE5;
+    color:#404bbf;
 }
 .header-logo-web{ 
-    color: #4D5AE5;
+    color: #2e2f42;
+    content: studio;
 }
-
+.header-address-kursiv{
+    font-style: normal;
+}
 
 .nav-link{
         font-weight: 500;
