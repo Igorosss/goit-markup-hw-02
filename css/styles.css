@@ -1,6 +1,6 @@
 ul{list-style-type: none;}
 a{text-decoration: none;}
-body{
+.body{
     font-family:"Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -116,9 +116,10 @@ body{
         color: #434455;
 }
 
-/*maoin-saction-3*/
+/*maoin-saction-4*/
 
 .saction-portfolio{
+    text-transform: capitalize;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -128,6 +129,7 @@ body{
 }
 
 .saction-service{
+    text-transform: capitalize;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -135,6 +137,7 @@ body{
         color: #2e2f42
 }
 .saction-mark{
+    text-transform: capitalize;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
