@@ -10,7 +10,7 @@ body{
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1,16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
@@ -20,7 +20,7 @@ body{
     color: #4D5AE5;
 }
 .header-logo-web{ 
-       color: #4D5AE5;
+    color: #4D5AE5;
 }
 
 
@@ -45,4 +45,107 @@ body{
 .nav-inform:hover,
 .nav-inform:focus {
     color: #4D5AE5;
+}
+
+
+/*maoin-saction-1*/
+
+.main-solutions{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff
+}
+.hero-order{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+}
+.hero-order:hover,
+.hero-order:focus {
+    color: #404bbf;
+}
+
+/*maoin-saction-2*/
+
+.advantages{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.advantages-paragraf{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*maoin-saction-3*/
+
+.section-team{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.section-naim{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.section-work{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
+/*maoin-saction-3*/
+
+.saction-portfolio{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.saction-service{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42
+}
+.saction-mark{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*footer*/
+
+.footer-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
