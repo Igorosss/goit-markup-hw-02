@@ -18,13 +18,6 @@ a{text-decoration: none;}
         color: #4d5ae5;
         line-height: 1.17
 }
- .header-logo:hover{
-    color: #404bbf
- } 
- .header-logo:focus{
-    color:#404bbf;
-}
-
 
 .header-logo-studio{ 
     color: #2e2f42;
@@ -36,7 +29,6 @@ a{text-decoration: none;}
 .header-logo-studio:focus {
     color: #404bbf;
 }
-
 
 .header-address-kursiv{
     font-style: normal;
