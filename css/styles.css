@@ -16,6 +16,7 @@ a{text-decoration: none;}
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        line-height: 1.17
 }
  .header-logo:hover{
     color: #404bbf
@@ -83,6 +84,10 @@ a{text-decoration: none;}
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff
+}
+.main-order:hover,
+.main-order:focus {
+    color: #404bbf;
 }
 .hero-order{
         font-family:"Roboto", sans-serif;
