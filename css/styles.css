@@ -16,10 +16,9 @@ a{text-decoration: none;}
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
-        line-height: 1.17;
 }
  .header-logo:hover{
-    color: #404bbf;
+    color: #404bbf
  } 
  .header-logo:focus{
     color:#404bbf;
