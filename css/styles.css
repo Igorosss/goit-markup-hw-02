@@ -85,10 +85,7 @@ a{text-decoration: none;}
     text-align: center;
     color: #fff
 }
-.main-order:hover,
-.main-order:focus {
-    color: #404bbf;
-}
+
 .hero-order{
         font-family:"Roboto", sans-serif;
         font-weight: 500;
@@ -100,7 +97,9 @@ a{text-decoration: none;}
         cursor: pointer;
 }
 
-.hero-order:hover,
+.hero-order:hover{
+    color: #404bbf
+}
 .hero-order:focus {
     color: #404bbf;
 }
