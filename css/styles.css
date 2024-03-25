@@ -35,17 +35,17 @@ a{text-decoration: none;}
     font-style: normal;
 }
 
-.header-link{
+.header-link-Studio{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.header-link:hover{
+.header-link-Studio:hover{
     color: #404bbf;
 } 
-.header-link:focus{
+.header-link-Studio:focus{
     color: #404bbf;
 }
 
