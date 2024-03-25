@@ -57,7 +57,7 @@ a{text-decoration: none;}
         letter-spacing: 0.02em;
         color: #434455;
 }
-.nav-inform,
+.nav-inform:hover,
 .nav-inform:focus {
     color: #404bbf;
 }
