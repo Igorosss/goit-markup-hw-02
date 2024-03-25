@@ -97,8 +97,8 @@ a{text-decoration: none;}
         cursor: pointer;
 }
 
-.hero-order:hover{ color: #404bbf;}
-.hero-order:focus{ color: #404bbf;}
+.hero-order:hover{ background-color: #404bbf;}
+.hero-order:focus{ background-color: #404bbf;}
 
 /*maoin-saction-2*/
 
