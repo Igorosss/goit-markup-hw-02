@@ -57,10 +57,8 @@ a{text-decoration: none;}
         letter-spacing: 0.02em;
         color: #434455;
 }
-.nav-inform:hover{
-    color: #404bbf;
-}
-.nav-inform:focus{
+.nav-inform,
+.nav-inform:focus {
     color: #404bbf;
 }
 
