@@ -48,15 +48,15 @@ a{text-decoration: none;}
 } 
 
 
-.nav-inform{
+.header-inform{
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.nav-inform:hover,
-.nav-inform:focus {
+.header-inform:hover,
+.header-inform:focus {
     color: #404bbf;
 }
 
